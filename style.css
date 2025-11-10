@@ -9,7 +9,7 @@ body {
     color: #333333;
     font-size: medium;
     font-family:fantasy;
-    text-align: center;
+    text-align:justify;
 }
 
 a {
@@ -22,6 +22,15 @@ a:hover {
 }
 
 img {
-  border: 4px solid #ddd;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    border: 4px solid #8684df;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+caption {
+  background-color: #61c9bd;  /* your preferred color */
+  color: #2b2828;                /* text color for contrast */
+  font-weight: 900;
+  font-size: 1.2em;
+  padding: 0.5em 1em;
+  border-radius: 6px 6px 0 0; /* rounded top corners (optional) */
 }
