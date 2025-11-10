@@ -1,5 +1,22 @@
 h1 {
-    color: chocolate;
+    color: blue;
     font-size: xx-large;
     font-family: monospace;
+}
+
+body {
+    background-color: #ffffff;
+    color: #333333;
+    font-size: medium;
+    font-family:fantasy;
+    text-align: center;
+}
+
+a {
+    color: aqua;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
