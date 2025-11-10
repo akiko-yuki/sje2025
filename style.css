@@ -1,34 +1,34 @@
 h1 {
-    color: blue;
-    font-size: xx-large;
-    font-family: monospace;
+  color: blue;
+  font-size: xx-large;
+  font-family: monospace;
 }
 
 body {
-    background-color: #dadada;
-    color: #333333;
-    font-size: medium;
-    font-family:fantasy;
-    text-align:justify;
+  background-color: #dadada;
+  color: #333333;
+  font-size: medium;
+  font-family: fantasy;
+  text-align: justify;
 }
 
 a {
-    color: aqua;
-    text-decoration: none;
+  color: aqua;
+  text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 img {
-    border: 4px solid #8684df;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  border: 4px solid #8684df;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 
 caption {
-  background-color: #61c9bd;  /* your preferred color */
-  color: #2b2828;                /* text color for contrast */
+  background-color: #61c9bd; /* your preferred color */
+  color: #2b2828; /* text color for contrast */
   font-weight: 900;
   font-size: 1.2em;
   padding: 0.5em 1em;
